@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewCart/static/css/main.889dd3d5.css",
+    "main.js": "/NewCart/static/js/main.5b6a6700.js",
+    "static/js/787.855d930d.chunk.js": "/NewCart/static/js/787.855d930d.chunk.js",
+    "index.html": "/NewCart/index.html",
+    "main.889dd3d5.css.map": "/NewCart/static/css/main.889dd3d5.css.map",
+    "main.5b6a6700.js.map": "/NewCart/static/js/main.5b6a6700.js.map",
+    "787.855d930d.chunk.js.map": "/NewCart/static/js/787.855d930d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.889dd3d5.css",
+    "static/js/main.5b6a6700.js"
+  ]
+}
